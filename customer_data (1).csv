@@ -1,0 +1,101 @@
+Customer ID,Product Name,Units Purchased,Price,Frequency of Purchases
+CUST001,Laptop,1,278.76,10
+CUST002,Vacuum Cleaner,7,183.9,3
+CUST003,Refrigerator,8,304.26,5
+CUST004,Smartwatch,3,360.0,5
+CUST005,Vacuum Cleaner,5,443.0,4
+CUST006,Air Conditioner,1,336.33,1
+CUST007,Smart TV,7,392.5,5
+CUST008,Wireless Earbuds,5,122.03,10
+CUST009,Television,8,257.7,5
+CUST010,Mouse,8,54.2,4
+CUST011,Keyboard,9,161.01,6
+CUST012,Washing Machine,7,376.91,10
+CUST013,Air Conditioner,1,496.31,4
+CUST014,Television,3,94.63,7
+CUST015,Refrigerator,8,230.67,7
+CUST016,Smart TV,3,410.03,2
+CUST017,Washing Machine,8,141.82,3
+CUST018,Refrigerator,1,299.79,1
+CUST019,Air Conditioner,5,379.88,8
+CUST020,Television,4,327.19,9
+CUST021,Laptop,5,134.61,4
+CUST022,Air Conditioner,8,209.92,6
+CUST023,Mouse,4,402.71,9
+CUST024,Refrigerator,4,299.4,6
+CUST025,Washing Machine,3,52.35,9
+CUST026,Washing Machine,7,392.45,4
+CUST027,Vacuum Cleaner,3,65.89,8
+CUST028,Refrigerator,3,385.58,9
+CUST029,Monitor,5,141.12,4
+CUST030,Television,5,481.13,5
+CUST031,Monitor,6,215.57,8
+CUST032,Gaming Console,8,197.12,10
+CUST033,Television,6,117.0,6
+CUST034,Refrigerator,1,187.52,7
+CUST035,Smartphone,8,444.49,3
+CUST036,Smart TV,8,498.35,7
+CUST037,Refrigerator,9,215.74,8
+CUST038,Monitor,9,251.87,10
+CUST039,Laptop,2,374.93,6
+CUST040,Smart TV,2,448.79,10
+CUST041,Refrigerator,3,316.87,9
+CUST042,Refrigerator,1,226.19,6
+CUST043,Laptop,4,235.68,9
+CUST044,Refrigerator,4,363.03,4
+CUST045,Smart TV,9,51.45,8
+CUST046,Smartwatch,9,328.82,11
+CUST047,Smartphone,9,209.97,4
+CUST048,Wireless Earbuds,7,407.39,2
+CUST049,Smartphone,2,91.85,10
+CUST050,Keyboard,5,314.69,11
+CUST051,Mouse,4,266.44,9
+CUST052,Vacuum Cleaner,8,339.05,5
+CUST053,Refrigerator,2,79.18,4
+CUST054,Smartwatch,6,310.99,2
+CUST055,Television,5,302.67,1
+CUST056,Refrigerator,2,302.3,11
+CUST057,Monitor,1,321.57,7
+CUST058,Air Conditioner,8,354.41,6
+CUST059,Smartwatch,2,412.25,2
+CUST060,Laptop,7,171.42,8
+CUST061,Smartwatch,9,421.27,11
+CUST062,Keyboard,9,274.22,4
+CUST063,Laptop,8,84.68,8
+CUST064,Gaming Console,9,76.35,7
+CUST065,Wireless Earbuds,2,200.41,5
+CUST066,Bluetooth Speaker,6,403.2,10
+CUST067,Smart TV,4,368.46,10
+CUST068,Smartwatch,4,404.88,8
+CUST069,Smart TV,5,282.77,9
+CUST070,Washing Machine,3,248.09,5
+CUST071,Monitor,1,116.35,10
+CUST072,Refrigerator,8,197.69,5
+CUST073,Monitor,5,245.31,2
+CUST074,Smart TV,3,89.87,5
+CUST075,Smartphone,7,149.28,3
+CUST076,Bluetooth Speaker,7,319.2,7
+CUST077,Smartphone,1,381.05,10
+CUST078,Gaming Console,9,499.26,5
+CUST079,Bluetooth Speaker,2,469.9,8
+CUST080,Bluetooth Speaker,5,339.15,1
+CUST081,Smartphone,5,239.56,3
+CUST082,Laptop,8,336.28,3
+CUST083,Keyboard,8,403.54,9
+CUST084,Smart TV,7,103.25,5
+CUST085,Smartphone,7,234.46,9
+CUST086,Monitor,6,427.91,9
+CUST087,Laptop,6,222.72,1
+CUST088,Monitor,9,307.34,2
+CUST089,Keyboard,6,314.5,5
+CUST090,Gaming Console,2,133.01,4
+CUST091,Refrigerator,2,213.01,10
+CUST092,Keyboard,5,200.53,9
+CUST093,Mouse,4,61.79,7
+CUST094,Television,2,60.89,6
+CUST095,Laptop,3,424.26,7
+CUST096,Gaming Console,7,172.88,1
+CUST097,Mouse,8,283.14,1
+CUST098,Washing Machine,6,184.43,8
+CUST099,Gaming Console,5,473.31,2
+CUST100,Smartphone,1,166.68,10

@@ -1,0 +1,71 @@
+Product ID,Product Name,Category,Price,Units Sold,Stock Remaining,Rating,Discount Offered (%),Warranty (Years),Brand
+ELECT001,Keyboard,Inverters,1059.02,78,66,2.8,17,3,OnePlus
+ELECT002,Smartphone,Laptops,1291.46,21,11,2.2,8,4,Apple
+ELECT003,Air Conditioner,Lighting,1857.97,106,109,1.7,13,2,Dell
+ELECT004,Bluetooth Speaker,Fans,179.52,150,73,4.8,25,4,Xiaomi
+ELECT005,Smartwatch,Home Appliances,1469.87,463,135,4.5,25,1,Xiaomi
+ELECT006,Wireless Earbuds,Accessories,454.48,372,115,4.4,6,1,OnePlus
+ELECT007,Smart Bulb,Laptops,746.82,194,60,4.8,20,2,Samsung
+ELECT008,Washing Machine,Televisions,1482.95,438,123,3.2,18,2,LG
+ELECT009,Air Conditioner,Home Appliances,36.98,175,63,4.3,17,1,LG
+ELECT010,LED Bulb,Lighting,1556.79,289,67,2.5,6,4,Microsoft
+ELECT011,Ceiling Fan,Home Appliances,375.01,61,20,4.1,7,4,Dell
+ELECT012,Keyboard,Gaming Consoles,78.48,189,100,2.2,7,2,Xiaomi
+ELECT013,Smart TV,Televisions,597.93,208,14,3.7,21,4,HP
+ELECT014,Portable Air Conditioner,Accessories,844.3,48,42,4.8,23,2,Dell
+ELECT015,Bluetooth Speaker,Gaming Consoles,299.87,394,161,1,29,3,Samsung
+ELECT016,Monitor,Lighting,942.01,248,31,1.2,3,3,Samsung
+ELECT017,Air Conditioner,Laptops,831.2,253,148,1,0,2,Dell
+ELECT018,Smartwatch,Mobile Phones,256.8,171,41,2,10,1,Xiaomi
+ELECT019,Smartphone,Televisions,93.47,253,25,3.9,17,3,HP
+ELECT020,Mouse,Lighting,1299.69,30,86,2.7,21,2,Apple
+ELECT021,Air Cooler,Laptops,912.7,226,118,1.3,10,1,Microsoft
+ELECT022,Smartwatch,Fans,1979.88,378,198,4.9,9,3,Xiaomi
+ELECT023,Smart Bulb,Mobile Phones,1248.99,138,59,3.7,9,1,Microsoft
+ELECT024,Television,Televisions,1156.78,196,96,4.5,0,3,Sony
+ELECT025,Television,Televisions,223.64,457,105,1.4,21,2,Microsoft
+ELECT026,Monitor,Home Appliances,1843.44,360,183,3.6,1,3,Samsung
+ELECT027,Portable Air Conditioner,Lighting,1429.43,35,54,4.2,17,3,LG
+ELECT028,Smart Bulb,Gaming Consoles,1977.02,488,14,4,19,4,Dell
+ELECT029,Wireless Earbuds,Home Appliances,1313.94,340,69,1.6,19,2,Samsung
+ELECT030,Washing Machine,Gaming Consoles,1259.36,272,46,1.4,18,1,Dell
+ELECT031,Air Conditioner,Home Appliances,512.47,183,146,2.6,7,4,Samsung
+ELECT032,Television,Inverters,1343.08,334,119,4.5,2,4,Xiaomi
+ELECT033,Smartwatch,Fans,825.72,425,139,3.2,21,3,Samsung
+ELECT034,Refrigerator,Televisions,775.26,280,92,3.4,22,2,Microsoft
+ELECT035,Monitor,Gaming Consoles,651.92,243,7,1.4,14,3,OnePlus
+ELECT036,Vacuum Cleaner,Fans,472.85,296,0,4.3,7,4,Xiaomi
+ELECT037,Portable Air Conditioner,Fans,1382.18,68,138,1.5,17,1,OnePlus
+ELECT038,Vacuum Cleaner,Mobile Phones,1154.14,189,96,1.7,27,1,Dell
+ELECT039,Air Cooler,Gaming Consoles,879.41,470,31,3,24,4,LG
+ELECT040,Smart Bulb,Gaming Consoles,1903.98,301,177,2.7,10,4,HP
+ELECT041,Smart TV,Lighting,1190.43,111,101,1.3,10,4,Sony
+ELECT042,Keyboard,Lighting,806.03,371,121,3.4,1,4,Xiaomi
+ELECT043,Electric Kettle,Lighting,1692.99,405,152,2.9,22,4,OnePlus
+ELECT044,Smartphone,Accessories,949.58,350,116,2.6,29,3,Samsung
+ELECT045,Air Conditioner,Home Appliances,1931.63,86,177,1,0,4,HP
+ELECT046,Gaming Console,Lighting,424.74,220,46,4.1,1,2,Samsung
+ELECT047,Washing Machine,Home Appliances,1851.94,339,111,2.8,12,4,Samsung
+ELECT048,Bluetooth Speaker,Mobile Phones,201.39,439,120,3.2,24,4,Microsoft
+ELECT049,Television,Laptops,705.88,171,37,2.6,21,1,Samsung
+ELECT050,Laptop,Mobile Phones,149.16,11,139,3.4,1,4,Xiaomi
+ELECT051,Gaming Console,Accessories,772.92,95,173,4.7,6,2,Samsung
+ELECT052,Ceiling Fan,Home Appliances,1673.26,469,175,3.2,28,1,LG
+ELECT053,Smart Bulb,Accessories,71.33,404,182,3.8,16,4,Dell
+ELECT054,Mouse,Fans,217.67,153,165,3.3,26,2,Samsung
+ELECT055,Monitor,Mobile Phones,925.08,338,35,2.3,10,3,Samsung
+ELECT056,Portable Air Conditioner,Home Appliances,1600.07,21,140,3.9,13,2,Microsoft
+ELECT057,Inverter,Televisions,745.08,426,107,4.2,5,4,Dell
+ELECT058,Smart TV,Accessories,1582.54,262,136,3.3,28,4,Microsoft
+ELECT059,Smartwatch,Laptops,1330.79,222,150,3.5,1,2,Xiaomi
+ELECT060,Mouse,Fans,45.38,225,78,2.6,18,1,Microsoft
+ELECT061,Inverter,Televisions,659.49,213,94,2.7,15,1,OnePlus
+ELECT062,Wired Headphones,Laptops,493.21,115,65,1.3,14,1,Apple
+ELECT063,Monitor,Home Appliances,1127.87,46,53,3,21,1,Apple
+ELECT064,Mouse,Lighting,1801.69,430,107,3.9,14,2,Sony
+ELECT065,Table Fan,Gaming Consoles,1386.02,130,28,1.5,15,2,HP
+ELECT066,Wired Headphones,Fans,1427.55,26,78,2.2,3,4,Microsoft
+ELECT067,Smartphone,Televisions,1774.78,305,195,3,16,1,Samsung
+ELECT068,Wireless Earbuds,Laptops,477.77,314,173,1.8,4,1,Sony
+ELECT069,Inverter,Televisions,396.68,145,36,1.5,7,2,Samsung
+ELECT070,Keyboard,Gaming Consoles,1302.72,404,188,1.6,22,1,HP
